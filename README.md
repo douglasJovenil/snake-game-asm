@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 
 <img align="left" alt="ASM 8086" width="26px" src="https://image.winudf.com/v2/image/cG9ja2V0Ym9va3MubWljcm9wcm9jZXNzb3I4MDg2X2ljb25fMTUxMTQ2OTM4MF8wODk/icon.png?w=170&fakeurl=1" /> ASM 8086
 
-## Usage
+## 🏃 Usage
 
 To run this application you have two options:
 
@@ -42,7 +42,7 @@ git clone https://github.com/douglasJovenil/snake-game-asm
 ```
 
 - Now open **emu8086** and open the **snake.asm**, you find this file inside the repository you just cloned
-- Inside the **emu8086** click on **emulate**, when you do this a window will open, in this window, click on **run**
+- Inside the **emu8086** click on **emulate**, when you do this a window will open, in this window click on **run**
 
 ![Running debug mode](./docs/images/04_running_debug_mode.png)
 
